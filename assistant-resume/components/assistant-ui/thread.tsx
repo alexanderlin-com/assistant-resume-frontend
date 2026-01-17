@@ -105,7 +105,7 @@ const ThreadWelcome: FC = () => {
             transition={{ delay: 0.1 }}
             className="aui-thread-welcome-message-motion-2 text-2xl text-muted-foreground/65"
           >
-            How can I help you today?
+            What would you like to know about Alexander Lin?
           </m.div>
         </div>
       </div>
